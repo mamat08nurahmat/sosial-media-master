@@ -16,6 +16,7 @@
                     <div class="col-md-8">
                         <h1>Selamat datang di matsosmed</h1>
                         <p>Bergabunglah bersama jutaan orang lainnya...</p>
+			<p>on proses develop.......</p>
                     </div>
                     <div class="col-md-4">
                         <a href="login.php" class="btn btn-secondary">Masuk</a>
